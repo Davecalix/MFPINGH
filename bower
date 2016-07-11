@@ -1,0 +1,9 @@
+{
+  "name": "Form Iron Polymer",
+  "description": "",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-elements": "polymerelements/iron-elements#^1.0.8",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1"
+  }
+}
